@@ -32,10 +32,9 @@ Ponds are counted by the right seat observer on 149 transects within 26 of the s
 We have provided 2 shapefiles in ESRI .shp format in the repo that might be of benefit/interest:
 1. WBPHS\_Stratum\_boundaries.shp
 2. WBPHS\_Segments.shp
-The stratum boundaries contains the stratum polygon boundaries for all of the strata surveyed. **The segments shapfile...**. Both shapefiles are in a Geographic Pojection, NAD83 Dataum.  
+The stratum boundaries contains the stratum polygon boundaries for all of the strata surveyed. Both shapefiles are in a Geographic Pojection, NAD83 Dataum.  
 
 **Supplemental environmental data relevant to understanding waterfowl distribution and abundance**:
-- Temperature and Precipiation data compiled by researchers at the [University of Delaware](http://www.esrl.noaa.gov/psd/data/gridded/data.UDel_AirT_Precip.html) 
-[another link??] (http://climate.geog.udel.edu/~climate/html_pages/download.html)
+- Temperature and Precipiation data compiled by researchers from the University of Delaware. Data hosted by [NOAA](http://www.esrl.noaa.gov/psd/data/gridded/data.UDel_AirT_Precip.html) or direcly by the [University of Delaware] (http://climate.geog.udel.edu/~climate/html_pages/download.html)
 
 
