@@ -14,13 +14,18 @@ Displays might include (1) population trajectories over space and time, (2) rela
 # Data
 We are providing several different "types" of data to use in the challenge: 
  
-1. 1974-2014 annual population estimates for the four species for each of the mid-continent survey "strata", along with spatial information about the strata. Annual estimates of pond totals for each prairie/parkland stratum in which ponds are counted. 
-2. Survey segment counts from 1974-2014 for the four species and ponds (the "raw" data used to create the population estimates) for the entire survey area (mid-continent and eastern survey area), along with spatial information about the location of the strata. The counts represent actual number of birds seen by the pilot or observer over the lenght of the segment.
-3. A link to continental, spatially explicit precipitation data that can provide more extensive information about habitat conditions than the survey specific pond counts.
+1. 1974-2012 annual population estimates for the four species for each of the mid-continent survey "strata", along with spatial information about the strata. Annual estimates of pond totals for each prairie/parkland stratum in which ponds are counted.
+2. Survey segment counts from 1974-2012 for the four species and ponds (the "raw" data used to create the population estimates) for the entire survey area (mid-continent and eastern survey area), along with spatial information about the location of the strata.
+	* TotalBirds Column:  This reflects the total number of birds observed on a segemnt.
+	* Pairs Column: Observers record social groupings during the survey, and this reflects the number of breeding pairs observed.  A breeding pair is defined as 1 male + 1 female, or 1 single male.  Single males are presumed to have a female on a nest.
+	* From 2000 to 2012 counts are weighted by the proportion of the segment actually flown. This is reflected by non-integer counts in the totalBirds, and pairs columns.
+	* If a segement for a particular year/stratum/transect does not appear in the table then it was not flown.
 
-The survey consists of XXX transects, which are divided into ~18 mile segments for data collection purposes (prior to GPS technology, spatial information about count location was collected by segment). A pilot-observer (left seat) and observer (right seat) count all waterfowl seen, by species, within 1/8 mile from either side of the survey aircraft, which flies at an altitude of 100 ft and ~90 mi/hr. ([Pilot observations](http://www.flyways.us/status-of-waterfowl/pilot-reports)) For the purpose of population estimation, the transects are divided into strata and supplementary data are used to correct for differences in detection among survey crews. 
+3. A link to continental, spatially explicit precipitation data that can provide more extensive information about habitat conditions than the survey-specific pond counts.
 
-Ponds are counted by the right seat observer on YYY transects within 26 of the survey strata.  
+The survey consists of 459 transects, which are divided into ~18 mile segments for data collection purposes (prior to GPS technology, spatial information about count location was collected by segment). A pilot-observer (left seat) and observer (right seat) count all waterfowl seen, by species, within 1/8 mile from either side of the survey aircraft, which flies at an altitude of 100 ft and ~90 mi/hr. ([Pilot observations](http://www.flyways.us/status-of-waterfowl/pilot-reports)) For the purpose of population estimation, the transects are divided into strata and supplementary data are used to correct for differences in detection among survey crews. 
+
+Ponds are counted by the right seat observer on 149 transects within 26 of the survey strata.  
 
 
 **Survey spatial information**:
