@@ -1,9 +1,9 @@
 **PopulationEstimates.csv**
 
-- *Columns 1-2*: Species common name and four letter abbreviation (amwi = american wigeon, nopi = northern pintail, scau = scaup spp., rndu = ring-necked duck, pond = natural and artificial wetlands >6" in depth and >33 sqft in area)
+- *Columns 1-2*: Species common name and four letter abbreviation (spp_abbrev: amwi = american wigeon, nopi = northern pintail, scau = scaup spp., rndu = ring-necked duck, pond = natural and artificial wetlands >6" in depth and >33 sqft in area)
 - *Column 3*: yr = year of survey
 - *Column 4*: stratum = survey stratum (see BackgroundMaterials and/or Shapefiles folders for map and spatial data); the survey consists of 70 strata, numbered between 1 and 77; population estimates are included for the 52 strata in the "traditional survey area" (strata 1-18,20-50,75-77).
-- *Columns 5-6*: Estimated number of ducks (or ponds) for each species-stratum combination and its estimated standard error.
+- *Columns 5-6*: popn_est = Estimated number of ducks (or ponds) for each species-stratum combination and its SEpopn_est = estimated standard error.
 
 **segmentData.csv**
 
