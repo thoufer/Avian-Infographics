@@ -1,4 +1,8 @@
 ## Avian Info-graphics Challenge
+
+# Where to find us
+We have a [slack channel](http://hackforchange.slack.com/) that was organized as part of the National Day, and we'll be monitoring it regularly, and all day on June 6.. To get access send an email to *hello@hackforchange.org* and request an invite.  Then join the #Avian-infographics channel.
+
 # Background
 Every spring since 1955, waterfowl biologists gear up to conduct the Waterfowl Breeding Population and Habitat survey, *aka* the "May Survey". The purpose of this survey is to estimate the population sizes of over 20 species of breeding waterfowl, as well as annual habitat conditions, to support the management of waterfowl (ducks, geese, and swans). The results of the survey are reported each year in tables and plots within the [Trends in Duck Breeding Populations](http://www.fws.gov/birds/surveys-and-data/reports-and-publications/population-status.php), and [Waterfowl Status](http://www.fws.gov/birds/surveys-and-data/reports-and-publications/population-status.php) reports.  
 
@@ -37,4 +41,10 @@ The stratum boundaries contains the stratum polygon boundaries for all of the st
 **Supplemental environmental data relevant to understanding waterfowl distribution and abundance**:
 - Temperature and Precipiation data compiled by researchers from the University of Delaware. Data hosted by [NOAA](http://www.esrl.noaa.gov/psd/data/gridded/data.UDel_AirT_Precip.html) or direcly by the [University of Delaware] (http://climate.geog.udel.edu/~climate/html_pages/download.html)
 
+# Contributing
+
+We flexible, and will take thoughts, ideas, suggestions, code almost any way you wand to get it to us.
+
+1. Fork this repo, then send a pull request..
+2. Create your own, then @mention us (@thoufer or @embuco) in github or in the slack channel
 
